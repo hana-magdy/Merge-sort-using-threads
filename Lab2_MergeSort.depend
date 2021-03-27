@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607275207 source:/home/hana/Desktop/Lab2_MergeSort/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
